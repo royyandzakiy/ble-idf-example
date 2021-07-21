@@ -1,4 +1,4 @@
-# Install script for directory: /home/royyandzakiy/project-coding/iot/espidf-arduino-bareminimum/components/arduino-esp32
+# Install script for directory: /home/royyandzakiy/project-coding/iot/2021-7/ble-idf-example/components/arduino-esp32
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

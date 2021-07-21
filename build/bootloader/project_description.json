@@ -1,8 +1,8 @@
 {
     "project_name":       "bootloader",
     "project_path":       "/home/royyandzakiy/esp/esp-idf/components/bootloader/subproject",
-    "build_dir":          "/home/royyandzakiy/project-coding/iot/espidf-arduino-bareminimum/build/bootloader",
-    "config_file":        "/home/royyandzakiy/project-coding/iot/espidf-arduino-bareminimum/sdkconfig",
+    "build_dir":          "/home/royyandzakiy/project-coding/iot/2021-7/ble-idf-example/build/bootloader",
+    "config_file":        "/home/royyandzakiy/project-coding/iot/2021-7/ble-idf-example/sdkconfig",
     "config_defaults":    "",
     "app_elf":            "bootloader.elf",
     "app_bin":            "bootloader.bin",

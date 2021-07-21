@@ -34,8 +34,8 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/royyandzakiy/project-coding/iot/espidf-arduino-bareminimum/build/esp-idf/mbedtls/mbedtls/library/cmake_install.cmake")
-  include("/home/royyandzakiy/project-coding/iot/espidf-arduino-bareminimum/build/esp-idf/mbedtls/mbedtls/include/cmake_install.cmake")
+  include("/home/royyandzakiy/project-coding/iot/2021-7/ble-idf-example/build/esp-idf/mbedtls/mbedtls/library/cmake_install.cmake")
+  include("/home/royyandzakiy/project-coding/iot/2021-7/ble-idf-example/build/esp-idf/mbedtls/mbedtls/include/cmake_install.cmake")
 
 endif()
 
